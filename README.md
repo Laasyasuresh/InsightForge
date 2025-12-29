@@ -56,6 +56,13 @@ Interactive dashboard (Streamlit / Power BI)
 Automated reporting pipeline
 Cloud deployment
 
+🧠 **Skills Demonstrated**
+Data cleaning and preprocessing
+Exploratory Data Analysis (EDA)
+KPI calculation and business metrics
+Data visualization using Python
+Translating data insights into business decisions
+
 📌 Impact
 
 Enabled data-driven decision-making through structured analysis and visual storytelling.
