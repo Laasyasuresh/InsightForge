@@ -5,7 +5,6 @@ Business Intelligence & Decision Analytics Platform
 🧠 Overview
 
 InsightForge is an end-to-end data analytics project focused on converting raw business data into clear, actionable insights that support strategic decision-making.
-
 This project simulates a real-world analytics workflow used by data analysts and data scientists in business environments.
 
 🎯 **Key Objectives**
@@ -35,6 +34,14 @@ Reporting & visualization
 Trend analysis and seasonality patterns
 Performance drivers and bottlenecks
 Data-backed recommendations
+
+📈 **Visual Insights**
+
+### Sales by Category
+![Sales by Category](reports/figures/sales_by_category.png)
+### Profit by Region
+![Profit by Region](reports/figures/profit_by_region.png)
+
 
 📊 **Key Business Insights** (From Analysis)
 
